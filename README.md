@@ -1,7 +1,8 @@
 # tDNTeamProfileGenerator
 
-![GitHub Logo](/images/logo.png)
-Format: ![Screenshot]('TeamProfileGeneratorScreenschot.PNG')
+# Screenshot
+
+![Screenshot](/images/TeamProfileGeneratorScreenschot.PNG)
 
 <iframe src="https://drive.google.com/file/d/1CgAUfZ0GPeRU84O-qeVOQWCJENx1RLMJ/preview" width="640" height="480"></iframe>
 
